@@ -9,9 +9,3 @@
   color: #000;
   margin: 0;
 }
-
-@media screen and (max-width: 850px) and (min-width: 330px) {
-  .card {
-    min-height: 440px;
-  }
-}
